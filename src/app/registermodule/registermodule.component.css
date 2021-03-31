@@ -1,0 +1,13 @@
+.card{
+    color: blue;
+    width: 50%;
+    margin-left: 20%;
+}
+.card-header{
+    text-align: center;
+}
+.form-group label{
+    color: green;
+    /* margin-left: 10%; */
+    /* background-color: burlywood; */
+}
